@@ -6,7 +6,7 @@ using UnityEngine;
 
 public class DBManager : MonoBehaviour
 {
-    private const string DATABASE_URL = "https://matchtrash-b4117-default-rtdb.europe-west1.firebasedatabase.app/";
+    private const string DATABASE_URL = "****";
     private FirebaseDatabase m_database;
     private static DBManager _instance;
     private DatabaseReference rootReference;
