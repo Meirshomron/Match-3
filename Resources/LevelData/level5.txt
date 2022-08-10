@@ -1,0 +1,9 @@
+{
+	"numOfRows" : 8,
+	"numOfColumns" : 8,
+	"totalSwaps" : 10,
+	"amountOfPowerupsInLevel" : 2,
+	"powerupsAvailable" :  ["XShape", "Spaceship", "Hammer"],
+	"targetScores" : [12, 12, 18],
+	"targetTypes" : ["Tile1", "Tile2", "Tile4"]
+}

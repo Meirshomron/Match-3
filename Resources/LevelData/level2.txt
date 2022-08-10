@@ -1,0 +1,9 @@
+{
+	"numOfRows" : 8,
+	"numOfColumns" : 8,
+	"totalSwaps" : 12,
+	"amountOfPowerupsInLevel" : 1,
+	"powerupsAvailable" :  ["SpreadLove", "Spaceship"],
+	"targetScores" : [7, 5],
+	"targetTypes" : ["Tile0", "Tile1"]
+}

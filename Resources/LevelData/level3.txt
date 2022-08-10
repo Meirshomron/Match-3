@@ -1,0 +1,9 @@
+{
+	"numOfRows" : 10,
+	"numOfColumns" : 6,
+	"totalSwaps" : 8,
+	"amountOfPowerupsInLevel" : 2,
+	"powerupsAvailable" :  ["Switch", "MixBoard", "Bomb"],
+	"targetScores" : [7, 10],
+	"targetTypes" : ["Tile2", "Tile0"]
+}

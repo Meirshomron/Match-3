@@ -1,0 +1,10 @@
+{
+	"numOfRows" : 7,
+	"numOfColumns" : 7,
+	"totalSwaps" : 12,
+	"amountOfPowerupsInLevel" : 1,
+	"blankTiles" : [1,1, 1,2, 1,3, 1,4, 1,5, 5,1, 5,2, 5,3, 5,4, 5,5, 2,1, 3,1, 4,1, 2,5, 3,5, 4,5],
+	"powerupsAvailable" :  ["GatherTwoSides", "MixBoard"],
+	"targetScores" : [8, 8, 8],
+	"targetTypes" : ["Tile4", "Tile2", "Tile3"]
+}

@@ -1,0 +1,17 @@
+{
+	"numOfRows" : 9,
+	"numOfColumns" : 7,
+	"totalSwaps" : 10,
+	"amountOfPowerupsInLevel" : 2,
+	"tileTypesAvailable" :  [0, 1, 3, 4],
+	"blankTiles" : [
+		1,1, 1,2, 1,4, 1,5,
+		2,0, 2,1, 2,2, 2,4, 2,5, 2,6,
+		3,1, 3,2, 3,4, 3,5,
+		5,1, 5,2, 5,4, 5,5,
+		6,0, 6,1, 6,2, 6,4, 6,5, 6,6,
+		7,1, 7,2, 7,4, 7,5],
+	"powerupsAvailable" :  ["Hammer", "Bomb", "Switch"],
+	"targetScores" : [15, 15],
+	"targetTypes" : ["Tile4", "Tile0"]
+}

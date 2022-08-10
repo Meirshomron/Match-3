@@ -1,0 +1,10 @@
+{
+	"numOfRows" : 6,
+	"numOfColumns" : 4,
+	"totalSwaps" : 5,
+	"amountOfPowerupsInLevel" : 1,
+	"tileTypesAvailable" : [3, 2, 0],
+	"powerupsAvailable" :  ["Hammer", "Switch"],
+	"targetScores" : [5, 5],
+	"targetTypes" : ["Tile3", "Tile2"]
+}

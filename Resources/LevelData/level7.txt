@@ -1,0 +1,9 @@
+{
+	"numOfRows" : 7,
+	"numOfColumns" : 5,
+	"totalSwaps" : 13,
+	"amountOfPowerupsInLevel" : 1,
+	"powerupsAvailable" :  ["GatherTwoSides", "Spaceship"],
+	"targetScores" : [32, 18, 24],
+	"targetTypes" : ["Tile4", "Tile2", "Tile1"]
+}

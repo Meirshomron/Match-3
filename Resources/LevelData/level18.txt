@@ -1,0 +1,17 @@
+{
+	"numOfRows" : 9,
+	"numOfColumns" : 9,
+	"totalSwaps" : 10,
+	"amountOfPowerupsInLevel" : 2,
+	"blankTiles" : [
+		1,0, 1,8,
+		2,1, 2,7,
+		3,2, 3,6,
+		4,3, 4,5,
+		5,2, 5,6,
+		6,1, 6,7,
+		7,0, 7,8],
+	"powerupsAvailable" :  ["XShape", "MixBoard", "Switch"],
+	"targetScores" : [33, 33, 33],
+	"targetTypes" : ["Tile3", "Tile2", "Tile1"]
+}

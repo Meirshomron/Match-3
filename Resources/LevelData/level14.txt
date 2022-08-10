@@ -1,0 +1,13 @@
+{
+	"numOfRows" : 9,
+	"numOfColumns" : 6,
+	"totalSwaps" : 10,
+	"amountOfPowerupsInLevel" : 2,
+	"blankTiles" : [
+		3,3, 3,4, 3,5,
+		4,3, 4,4, 4,5,
+		5,3, 5,4, 5,5],
+	"powerupsAvailable" :  ["Contagious", "AutoMatch", "XShape"],
+	"targetScores" : [27, 27, 27],
+	"targetTypes" : ["Tile2", "Tile0", "Tile4"]
+}
