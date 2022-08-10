@@ -7,7 +7,7 @@
 Tile matching game. 
 <br /> Learn more about this category: [Tile Matching](https://en.wikipedia.org/wiki/Tile-matching_video_game). 
 <br /> I've created independently a match3 style matching game that includes the key popular features of a match 3 game and added a unique twist - the powerup board.
-<br /> The powerup board is the yellow-white board of tiles in the bottom left corner of the in-game screen. This board marks the position of all the tiles hit in the main board of tile. Once the player completes hitting a full row or column or 3X3 set of tiles he is granted the ability to use the level's powerups again. 
+<br /> The powerup board is the yellow-white board of tiles in the bottom left corner of the in-game screen. This board marks the position of all the tiles hit in the main board. Once the player completes hitting a full row or column or 3X3 set of tiles he is granted the ability to use the level's powerups again. 
 <br /> The code for this game is included in the repo for educational purposes.
 
 https://user-images.githubusercontent.com/26349242/183933122-5816f9b9-37c9-4579-9d42-4ed580735f16.mp4
